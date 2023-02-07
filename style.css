@@ -1,0 +1,19 @@
+#paymentlinkcard:hover{
+
+   
+  
+    transition:0.5s;
+    filter: drop-shadow(0 0 12px rgb(204, 203, 203));
+    opacity: 1;
+    
+
+}
+
+#blackcard:hover{
+
+    transition:0.2s;
+    filter: drop-shadow(0 0 10px  rgb(7, 7, 7));
+    opacity: 1;
+    
+
+}
