@@ -1,0 +1,10 @@
+# razorpay-clone
+![Screenshot (4)](https://github.com/jordanashu/razorpay-clone/assets/95164037/8dc64e0f-b864-4517-8154-c45aa59bf752)
+![Screenshot (5)](https://github.com/jordanashu/razorpay-clone/assets/95164037/d66dd7f5-4061-4278-909f-ed718032a131)
+![Screenshot (6)](https://github.com/jordanashu/razorpay-clone/assets/95164037/a9738df8-d499-472f-9bc7-58cf69032698)
+![Screenshot (7)](https://github.com/jordanashu/razorpay-clone/assets/95164037/bdf66ce7-e6e5-4cf8-aeac-f18f0c67bff0)
+![Screenshot (8)](https://github.com/jordanashu/razorpay-clone/assets/95164037/a19b283f-6f03-47f6-a915-58f77ce617f1)
+![Screenshot (9)](https://github.com/jordanashu/razorpay-clone/assets/95164037/cdfdd4c2-5cab-4c77-b9bb-0e5578042540)
+![Screenshot (10)](https://github.com/jordanashu/razorpay-clone/assets/95164037/a555c50e-6441-4b35-be1b-161602248416)
+![Screenshot (11)](https://github.com/jordanashu/razorpay-clone/assets/95164037/723443e3-0009-4be1-b9f7-c8d8708523fb)
+![Screenshot (12)](https://github.com/jordanashu/razorpay-clone/assets/95164037/6875e650-d04a-4e32-89e5-f684eca0d216)
